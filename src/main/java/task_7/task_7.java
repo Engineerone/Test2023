@@ -1,8 +1,8 @@
-package task_6;
+package task_7;
 
-public class task_6 {
+public class task_7 {
     public static void main(String[] args) {
-        Figure myfig = new Figure(5,5);
+        new Figure(5,5);
     }
 }
 
